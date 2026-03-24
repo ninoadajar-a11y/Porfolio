@@ -1368,3 +1368,4 @@ export default function NicoPortfolio() {
     </div>
   );
 }
+export default App;
